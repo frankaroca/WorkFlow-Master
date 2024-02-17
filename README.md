@@ -38,8 +38,7 @@ current date will also be displayed at the top of the page.
 ![img](./Assets/work-day-schedule-screenshot.png)
 
 ## Link to Website
-
-https://dcollan.github.io/work-day-scheduler/
+(https://frankaroca.github.io/WorkFlow-Master/)
 
 ## How to Run
 
